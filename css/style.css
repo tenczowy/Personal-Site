@@ -12,12 +12,8 @@ p{
   font-family: 'Bodoni Moda', serif;
 }
 
-.part-1{
-  background-color: grey;
-  background-size: 180% 180%;
-}
 
-.about-me, .projects, .foot
+.about-me, .projects, .foot , .part-1
 {
   background-color: #CCCCCC;
 }
